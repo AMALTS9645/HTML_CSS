@@ -26,7 +26,7 @@
 }
 
 .para::after {
-  content: " T S";
+  content: "T S";
   color: black;
 }
 
